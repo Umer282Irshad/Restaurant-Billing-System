@@ -1,0 +1,3 @@
+﻿  Assembling Source.asm...
+Source.asm(12): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  FINAL PROJECTT.vcxproj -> D:\COAL Labs\FINAL PROJECTT\Debug\FINAL PROJECTT.exe
